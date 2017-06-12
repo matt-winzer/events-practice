@@ -23,6 +23,12 @@ square.addEventListener('click', function() {
   }
 });
 
+// for (var i = 0; i < paragraphs.length; i++) {
+//   paragraphs[i].addEventListener('click', function() {
+//     console.log('Hey! You clicked me!');
+//   });
+// }
+
 textDiv.addEventListener('click', function() {
   console.log('You clicked me.');
 });
